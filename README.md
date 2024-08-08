@@ -1,2 +1,2 @@
 # Personal-Website
-Personal website/learn more web development 
+Personal website - About, Projects, Resume, Goals, Contact
